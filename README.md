@@ -1,6 +1,5 @@
 <div align="center">
-
-# 🚀 Top Repositories:
+  
 <a href="https://github.com/NathanP278/openCalory">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=NathanP278&repo=openCalory&theme=dark&hide_border=false" alt="openCalory" />
 </a>
